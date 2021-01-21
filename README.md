@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yanalshoubaki233@gmail.com**
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/html.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/css.svg" alt="css3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/php.svg" alt="php" width="40" height="40"/> 
@@ -23,10 +23,14 @@
   <img src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/adobe%20(1).svg" alt="adobeillustrator" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/adobe.svg" alt="adobexd" width="40" height="40"/> 
 </p>
+<br>
 <p align="center">
-<a href="https://twitter.com/@itsyanal" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/twitter.svg" alt="@itsyanal" height="30" width="30" />
+<a href="https://www.facebook.com/yanalalshoubaki/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/facebook.svg" alt="yanalalshoubaki" height="30" width="30" />
 </a>
-<a href="https://linkedin.com/in/yanalshoubaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/linkedin.svg" alt="yanalshoubaki" height="30" width="30" /></a>
-<a href="https://instagram.com/yanalshoubakii" target="blank"><img align="center" src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/instagram.svg" alt="yanalshoubakii" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/yanalshoubaki" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/linkedin.svg" alt="yanalshoubaki" height="30" width="30" />
+</a>
+<a href="https://instagram.com/yanalshoubakii" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/instagram.svg" alt="yanalshoubakii" height="30" width="30" /></a>
 </p>
