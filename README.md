@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yanal Shoubaki</h1>
 <h3 align="center">A Full Stack Developer from Jordan</h3>
 
-- 🔭 I’m currently working on **Cloning Websites, creating new projects**
+- 🔭 I’m currently working on **Cloning Websites, creating new projects.**
 
-- 🌱 I’m currently learning **PHP, Laravel, Javascript, react.js, node.js, Sql**
+- 🌱 I’m currently learning **PHP, Laravel, Javascript, react.js, node.js, Sql.**
 
-- 👯 I’m looking to collaborate on **back-end projects, front-end projects.**
+- 👯 I’m looking to collaborate on **back-end projects, front-end projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yanalshoubaki?tab=repositories](https://github.com/yanalshoubaki?tab=repositories).
 
