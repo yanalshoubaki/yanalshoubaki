@@ -34,3 +34,4 @@
 <a href="https://instagram.com/yanalshoubakii" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/yanalshoubaki/yanalshoubaki/main/icons/instagram.svg" alt="yanalshoubakii" height="30" width="30" /></a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanalshoubaki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
