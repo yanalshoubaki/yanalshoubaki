@@ -1,5 +1,6 @@
-<h1 align="left">Hey! 👋, I'm Yanal</h1>
-<h3 align="left">I'm an software engineering at [sprintive](https://sprintive.com/).</h3>
+# Hey! 👋, I'm Yanal
+
+### I'm an software engineering at [sprintive](https://sprintive.com/)
 
 - 🔭 I’m currently working on **creating new projects**.
 
